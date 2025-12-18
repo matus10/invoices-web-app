@@ -18,3 +18,14 @@ Pro obě třídy byly použity kombinace Q objektů a vlastní metody.
 
 Použité technologie:
 Python, Django, Django REST Framework, SQlite, React
+
+Ukázky aplikace:
+Seznam osob: ![Seznam osob](screenshots/persons_list.png)
+Statistika osob: ![Statistika osob](screenshots/persons_statistics.png)
+Formulář osoby: ![Formulář osoby](screenshots/person_form.png)
+
+Formulář faktury: ![Formulář faktury](screenshots/invoice_form.png)
+Statistika faktur: ![Statistika faktur](screenshots/invoice_statistics.png)
+Detail faktury: ![Detail faktury](screenshots/invoice_detail.png)
+
+Postman test: ![Postman test](screenshots/persons_postman_test.png)
